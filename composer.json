@@ -1,0 +1,9 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Behavioral\\": "behavioral/",
+      "Creational\\": "creational/",
+      "Structural\\": "structural/"
+    }
+  }
+}
