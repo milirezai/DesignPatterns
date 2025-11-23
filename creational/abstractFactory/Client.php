@@ -17,7 +17,7 @@ class Client
         $checkbox = $this->factory->createCheckbox();
         return [
             'button' => $button->render(),
-            'checkbox' => $button->render()
+            'checkbox' => $checkbox->render()
         ];
     }
 
